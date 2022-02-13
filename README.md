@@ -1,5 +1,5 @@
 <p align="center">
-<img src=https://i.pinimg.com/originals/01/cf/ee/01cfee1c602fd6798b0183c5ebc2cba6.jpg" width="225" height="225"/>
+<img src=https://i.ibb.co/mzkyWN7/01cfee1c602fd6798b0183c5ebc2cba6.jpg" width="225" height="225"/>
 </p>
 <p align="center">
 <a href="#"><img title="Risky Robbot" src="https://img.shields.io/badge/Risky%20Modz%20BOT-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
