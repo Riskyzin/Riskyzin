@@ -23,18 +23,18 @@
 * [BREVE]()
 
 
-## Install the dependencies:
-Before running the below command, make sure you're in the project directory that
-you've just cloned!!
+## Instalação e dependencias
+Antes de executar o comando abaixo, verifique se você está no diretório do projeto que
+você acabou de clonar!!
 
-## Tools
+## Ferramentas
 
 ```bash
 > Termux
 > WhatsApp
 
 ```
-# Cara Install Di Termux
+# Como instalar no termux
 ```bash
 > termux-setup-storage
 > pkg update && pkg upgrade
@@ -47,18 +47,18 @@ you've just cloned!!
 > cd Bot-Wa
 > npm i
 > node sen.js
-=> Scan Qr !
+=> Scaneie o Código Qr!
 ```
-# Untuk Sdcard (File Sudah Di Download)
+# Para Sdcard (arquivo já baixado)
 ```bash
 > cd /sdcard
-> cp -r Bot-Wa-main $HOME
+> cp -r riskybot-main $HOME
 > cd xdev-self-main
 > npm i
 > node sen.js
 ```
 
-# Install To Pc/Rdp
+# Para PC/Rdp
 * [Node.js](https://nodejs.org/en/)
 * [Git](https://git-scm.com/downloads)
 * [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
