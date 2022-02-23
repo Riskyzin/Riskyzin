@@ -55,10 +55,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SenkuXZ/Bot-Wa.git"
+    "url": "git+https://github.com/Riskyzin/Riskyzin/.git"
   },
   "bugs": {
-    "url": "https://github.com/SenkuXZ/Bot-Wa/issues"
+    "url": "https://github.com/Riskyzin/Riskyzin"
   },
-  "homepage": "https://github.com/SenkuXZ/Bot-Wa#readme"
+  "homepage": "https://github.com/Riskyzin/Riskyzin/#readme"
 }
