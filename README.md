@@ -44,7 +44,7 @@ você acabou de clonar!!
 > pkg install ffmpeg
 > pkg install libwebp
 > git clone https://github.com/Riskyzin/riskybot
-> cd Bot-Wa
+> cd RiskyB
 > npm i
 > node sen.js
 => Scaneie o Código Qr!
